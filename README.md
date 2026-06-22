@@ -19,4 +19,4 @@ pytest
 
 Покрытие:
 
-pytest --cov
+python -m pytest
